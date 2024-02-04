@@ -1,0 +1,6 @@
+D:\Trabajo\Visual C#\Todo_En_uno2\Todo_En_uno2\bin\Debug\Todo_En_uno2.exe.config
+D:\Trabajo\Visual C#\Todo_En_uno2\Todo_En_uno2\bin\Debug\Todo_En_uno2.exe
+D:\Trabajo\Visual C#\Todo_En_uno2\Todo_En_uno2\bin\Debug\Todo_En_uno2.pdb
+D:\Trabajo\Visual C#\Todo_En_uno2\Todo_En_uno2\obj\Debug\Todo_En_uno2.csprojResolveAssemblyReference.cache
+D:\Trabajo\Visual C#\Todo_En_uno2\Todo_En_uno2\obj\Debug\Todo_En_uno2.exe
+D:\Trabajo\Visual C#\Todo_En_uno2\Todo_En_uno2\obj\Debug\Todo_En_uno2.pdb
