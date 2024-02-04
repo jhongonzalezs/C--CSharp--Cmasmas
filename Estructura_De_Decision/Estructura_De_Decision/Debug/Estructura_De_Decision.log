@@ -1,0 +1,4 @@
+﻿  Estructura_De_Decision.cpp
+d:\trabajo\visual c#\estructura_de_decision\estructura_de_decision\estructura_de_decision.cpp(138): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+d:\trabajo\visual c#\estructura_de_decision\estructura_de_decision\estructura_de_decision.cpp(150): warning C4552: '*': el operador no tiene efecto; se esperaba un operador con efecto secundario
+d:\trabajo\visual c#\estructura_de_decision\estructura_de_decision\estructura_de_decision.cpp(151): error C4700: se utilizó la variable local 'Volumen' sin inicializar
