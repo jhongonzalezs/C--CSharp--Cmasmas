@@ -1,0 +1,6 @@
+D:\Trabajo\Visual C#\par_Impar\par_Impar\bin\Debug\par_Impar.exe.config
+D:\Trabajo\Visual C#\par_Impar\par_Impar\bin\Debug\par_Impar.exe
+D:\Trabajo\Visual C#\par_Impar\par_Impar\bin\Debug\par_Impar.pdb
+D:\Trabajo\Visual C#\par_Impar\par_Impar\obj\Debug\par_Impar.csprojResolveAssemblyReference.cache
+D:\Trabajo\Visual C#\par_Impar\par_Impar\obj\Debug\par_Impar.exe
+D:\Trabajo\Visual C#\par_Impar\par_Impar\obj\Debug\par_Impar.pdb
